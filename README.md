@@ -3,6 +3,8 @@
 Backend developer (Go).  
 HTTP APIs, PostgreSQL, Docker, Linux VPS.
 
-**Stack:** Go · net/http · PostgreSQL · Docker · Nginx · Git
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,docker,linux,nginx,git)](https://skillicons.dev)
 
 Astana
